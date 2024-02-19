@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP DEMO\\CSHARP DEMO.csproj",
+      "projectUniqueName": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\CSHARP DEMO.csproj",
       "projectName": "CSHARP DEMO",
-      "projectPath": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP DEMO\\CSHARP DEMO.csproj",
+      "projectPath": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\CSHARP DEMO.csproj",
       "packagesPath": "C:\\Users\\aarifcad01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP DEMO\\obj\\",
+      "outputPath": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aarifcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"

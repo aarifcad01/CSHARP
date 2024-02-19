@@ -12,3 +12,17 @@ C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP DEMO\obj\Debug\net7.0\refint
 C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP DEMO\obj\Debug\net7.0\CSHARP DEMO.pdb
 C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP DEMO\obj\Debug\net7.0\CSHARP DEMO.genruntimeconfig.cache
 C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP DEMO\obj\Debug\net7.0\ref\CSHARP DEMO.dll
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\bin\Debug\net7.0\CSHARP DEMO.exe
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\bin\Debug\net7.0\CSHARP DEMO.deps.json
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\bin\Debug\net7.0\CSHARP DEMO.runtimeconfig.json
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\bin\Debug\net7.0\CSHARP DEMO.dll
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\bin\Debug\net7.0\CSHARP DEMO.pdb
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\CSHARP DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\CSHARP DEMO.AssemblyInfoInputs.cache
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\CSHARP DEMO.AssemblyInfo.cs
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\CSHARP DEMO.csproj.CoreCompileInputs.cache
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\CSHARP DEMO.dll
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\refint\CSHARP DEMO.dll
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\CSHARP DEMO.pdb
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\CSHARP DEMO.genruntimeconfig.cache
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\obj\Debug\net7.0\ref\CSHARP DEMO.dll
