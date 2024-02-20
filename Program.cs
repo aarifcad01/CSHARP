@@ -1,7 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿ See https://aka.ms/new-console-template for more information
+ Console.WriteLine("Hello, World!"); */
 
-int a=20;
+*int a=20;
 Console.WriteLine(a);
 Console.WriteLine("the given value for a is " + a);
 
@@ -30,5 +30,6 @@ int getvalue;
 getvalue=int.Parse(console.ReadLine());
 Console.WriteLine(getvalue);
 Console.WriteLine("the given value through console for getvalue is " + getvalue);
+
 
 

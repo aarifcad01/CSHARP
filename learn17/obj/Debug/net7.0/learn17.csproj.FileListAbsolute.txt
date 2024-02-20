@@ -1,0 +1,14 @@
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\bin\Debug\net7.0\learn17.exe
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\bin\Debug\net7.0\learn17.deps.json
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\bin\Debug\net7.0\learn17.runtimeconfig.json
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\bin\Debug\net7.0\learn17.dll
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\bin\Debug\net7.0\learn17.pdb
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\learn17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\learn17.AssemblyInfoInputs.cache
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\learn17.AssemblyInfo.cs
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\learn17.csproj.CoreCompileInputs.cache
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\learn17.dll
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\refint\learn17.dll
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\learn17.pdb
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\learn17.genruntimeconfig.cache
+C:\Users\aarifcad01\Desktop\CADBATCH\PROJECT\CSHARP\learn17\obj\Debug\net7.0\ref\learn17.dll
