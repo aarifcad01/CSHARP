@@ -1,0 +1,15 @@
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\bin\Debug\net8.0\inheritancedemo.exe
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\bin\Debug\net8.0\inheritancedemo.deps.json
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\bin\Debug\net8.0\inheritancedemo.runtimeconfig.json
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\bin\Debug\net8.0\inheritancedemo.dll
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\bin\Debug\net8.0\inheritancedemo.pdb
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.AssemblyInfoInputs.cache
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.AssemblyInfo.cs
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.csproj.CoreCompileInputs.cache
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.sourcelink.json
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.dll
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\refint\inheritancedemo.dll
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.pdb
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\inheritancedemo.genruntimeconfig.cache
+C:\Users\alavudeen\Desktop\CADBATCH\PROJECT\CSHARP\inheritancedemo\obj\Debug\net8.0\ref\inheritancedemo.dll

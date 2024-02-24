@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "a6rfxPmeny5oY7XR9F0eULqDn3pdF8sOgH5wuGsHm70hp6RI/fTMii7Ol5i2/4cT4V5K5ermtf7ExXiDChCx6Q==",
+  "dgSpecHash": "PI/UvBKeb62BJuYaXhXQyzlI4VUjptbVEghd1TyC+y8vErvzKcRrpaQgEavXxgOVQmJdWQDKb2EK9FGvbgH4rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn22\\learn22.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alavudeen\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn22\\learn22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alavudeen\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\alavudeen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\alavudeen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\alavudeen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

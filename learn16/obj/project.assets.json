@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aarifcad01\\.nuget\\packages\\": {}
+    "C:\\Users\\alavudeen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn16\\learn16.csproj",
+      "projectUniqueName": "C:\\Users\\alavudeen\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn16\\learn16.csproj",
       "projectName": "learn16",
-      "projectPath": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn16\\learn16.csproj",
-      "packagesPath": "C:\\Users\\aarifcad01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aarifcad01\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn16\\obj\\",
+      "projectPath": "C:\\Users\\alavudeen\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn16\\learn16.csproj",
+      "packagesPath": "C:\\Users\\alavudeen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alavudeen\\Desktop\\CADBATCH\\PROJECT\\CSHARP\\learn16\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aarifcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alavudeen\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,12 +59,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
